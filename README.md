@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Alister</h1>
 <h3>Fullstack developer aspiring game dev</h3>
-#About Me:
+About Me:
 Third year student studying Software Development and Networks and Cybersecurity at AUT<br><br>I'm currently working on personal and uni projects
 
 
-## 🌐 Socials:
+Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/alister-faid-1bb64531b) 
 
 # 💻 Tech Stack:
