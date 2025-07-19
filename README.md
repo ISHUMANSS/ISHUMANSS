@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alister</h1>
 <h3>Fullstack developer aspiring game dev</h3>
 About Me:
-Third year student studying Software Development and Networks and Cybersecurity at AUT<br><br>I'm currently working on personal and uni projects
+Third year student studying Software Development and Networks and Cybersecurity at AUT<br><br>I'm currently working on personal, uni projects, and vexU competition robotics for AURA
 
 
 
